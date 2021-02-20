@@ -1,0 +1,265 @@
+"codigo_orgao";"nome_orgao";"codigo_comarca";"nome_comarca";"ano";"denuncias";"com_informacao";"sem_informacao";"com_sentenca";"aguardando_sentenca";"sentenca_julgada_procedente";"sentenca_julgada_improcedente";"processo_extinto";"processo_suspenso";"taxa_com_informacao";"taxa_sem_informacao";"taxa_com_sentenca";"taxa_aguardando_sentenca";"taxa_sentenca_julgada_procedente";"taxa_sentenca_julgada_improcedente";"taxa_processo_extinto";"taxa_processo_suspenso"
+400565;"PJ junto a 5ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";220;204;16;115;89;104;3;6;2;92,7;7,3;56,4;43,6;90,4;2,6;5,2;1,7
+400573;"PJ junto a 11ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";214;205;9;145;60;85;11;41;8;95,8;4,2;70,7;29,3;58,6;7,6;28,3;5,5
+400588;"PJ junto a 14ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";217;213;4;157;56;114;14;12;17;98,2;1,8;73,7;26,3;72,6;8,9;7,6;10,8
+400592;"PJ junto a 16ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";213;208;5;113;95;74;9;15;15;97,7;2,3;54,3;45,7;65,5;8;13,3;13,3
+400591;"PJ junto a 17ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";220;212;8;147;65;121;9;8;9;96,4;3,6;69,3;30,7;82,3;6,1;5,4;6,1
+400594;"PJ junto a 19ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";220;207;13;108;99;92;4;11;1;94,1;5,9;52,2;47,8;85,2;3,7;10,2;0,9
+400580;"PJ junto a 20ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";217;206;11;152;54;125;5;8;14;94,9;5,1;73,8;26,2;82,2;3,3;5,3;9,2
+400590;"PJ junto a 21ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";226;222;4;126;96;79;21;24;2;98,2;1,8;56,8;43,2;62,7;16,7;19;1,6
+400582;"PJ junto a 23ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";216;213;3;157;56;124;7;18;8;98,6;1,4;73,7;26,3;79;4,5;11,5;5,1
+400568;"PJ junto a 26ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";221;216;5;108;108;78;8;20;2;97,7;2,3;50;50;72,2;7,4;18,5;1,9
+400586;"PJ junto a 27ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";207;200;7;156;44;133;1;17;5;96,6;3,4;78;22;85,3;0,6;10,9;3,2
+400585;"PJ junto a 28ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";201;198;3;90;108;75;6;9;0;98,5;1,5;45,5;54,5;83,3;6,7;10;0
+400569;"PJ junto a 29ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";201;197;4;144;53;107;8;18;11;98;2;73,1;26,9;74,3;5,6;12,5;7,6
+400597;"PJ junto a 31ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";202;197;5;124;73;73;21;29;1;97,5;2,5;62,9;37,1;58,9;16,9;23,4;0,8
+400581;"PJ junto a 32ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";208;190;18;69;121;48;12;9;0;91,3;8,7;36,3;63,7;69,6;17,4;13;0
+400577;"PJ junto a 33ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";202;190;12;136;54;102;16;15;3;94,1;5,9;71,6;28,4;75;11,8;11;2,2
+400583;"PJ junto a 34ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";225;209;16;147;62;108;13;16;10;92,9;7,1;70,3;29,7;73,5;8,8;10,9;6,8
+400570;"PJ junto a 35ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";211;208;3;120;88;67;14;33;6;98,6;1,4;57,7;42,3;55,8;11,7;27,5;5
+400571;"PJ junto a 36ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";216;210;6;150;60;100;13;15;22;97,2;2,8;71,4;28,6;66,7;8,7;10;14,7
+400572;"PJ junto a 37ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";217;211;6;104;107;55;33;14;2;97,2;2,8;49,3;50,7;52,9;31,7;13,5;1,9
+400595;"PJ junto a 38ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";197;192;5;113;79;80;20;9;4;97,5;2,5;58,9;41,1;70,8;17,7;8;3,5
+400579;"PJ junto a 39ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";222;217;5;124;93;102;4;12;6;97,7;2,3;57,1;42,9;82,3;3,2;9,7;4,8
+101062;"PJ junto a 40ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";220;215;5;190;25;122;40;17;11;97,7;2,3;88,4;11,6;64,2;21,1;8,9;5,8
+101063;"PJ junto a 41ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";229;221;8;125;96;103;12;9;1;96,5;3,5;56,6;43,4;82,4;9,6;7,2;0,8
+101053;"PJ junto a 42ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";219;208;11;185;23;127;24;18;16;95;5;88,9;11,1;68,6;13;9,7;8,6
+101055;"PJ junto a 43ª Vara Criminal da Capital";15;"Rio de Janeiro";"2019";212;205;7;132;73;95;15;16;6;96,7;3,3;64,4;35,6;72;11,4;12,1;4,5
+101043;"1ª PJ junto a 1ª e a 2ª Varas Criminais de Bangu";15;"Rio de Janeiro";"2019";340;322;18;232;90;164;9;59;0;94,7;5,3;72;28;70,7;3,9;25,4;0
+101044;"2ª PJ junto a 1ª e a 2ª Varas Criminais de Bangu";15;"Rio de Janeiro";"2019";316;294;22;215;79;136;39;40;0;93;7;73,1;26,9;63,3;18,1;18,6;0
+101082;"PJ junto a 1ª Vara Criminal de Jacarepagua";15;"Rio de Janeiro";"2019";249;240;9;159;81;82;12;65;0;96,4;3,6;66,2;33,8;51,6;7,5;40,9;0
+101070;"PJ junto a 2ª Vara Criminal de Jacarepagua";15;"Rio de Janeiro";"2019";219;210;9;134;76;90;13;31;0;95,9;4,1;63,8;36,2;67,2;9,7;23,1;0
+101088;"1ª PJ Criminal de Santa Cruz";15;"Rio de Janeiro";"2019";87;67;20;63;4;22;5;35;1;77;23;94;6;34,9;7,9;55,6;1,6
+101089;"2ª PJ Criminal de Santa Cruz";15;"Rio de Janeiro";"2019";132;84;48;64;20;17;5;41;1;63,6;36,4;76,2;23,8;26,6;7,8;64,1;1,6
+907757;"PJ junto a 1ª Vara Criminal de Madureira";15;"Rio de Janeiro";"2019";235;228;7;158;70;84;31;43;0;97;3;69,3;30,7;53,2;19,6;27,2;0
+101080;"PJ junto a 2ª Vara Criminal de Madureira";15;"Rio de Janeiro";"2019";241;222;19;157;65;91;21;45;0;92,1;7,9;70,7;29,3;58;13,4;28,7;0
+101290;"PJ junto a 1ª Vara Criminal de Niterói";44;"Niteroi";"2019";224;213;11;147;66;112;6;15;14;95,1;4,9;69;31;76,2;4,1;10,2;9,5
+101291;"PJ junto a 2ª Vara Criminal de Niterói";44;"Niteroi";"2019";245;230;15;144;86;112;10;18;4;93,9;6,1;62,6;37,4;77,8;6,9;12,5;2,8
+101292;"PJ junto a 3ª Vara Criminal de Niterói";44;"Niteroi";"2019";7;7;0;7;0;6;0;1;0;100;0;100;0;85,7;0;14,3;0
+101294;"PJ junto a 4ª Vara Criminal de Niterói";44;"Niteroi";"2019";258;252;6;162;90;141;9;12;0;97,7;2,3;64,3;35,7;87;5,6;7,4;0
+101403;"PJ junto a 1ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2019";226;223;3;192;31;162;14;11;5;98,7;1,3;86,1;13,9;84,4;7,3;5,7;2,6
+101408;"PJ junto a 2ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2019";221;206;15;116;90;71;22;22;1;93,2;6,8;56,3;43,7;61,2;19;19;0,9
+101405;"PJ junto a 3ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2019";240;239;1;193;46;149;24;9;11;99,6;0,4;80,8;19,2;77,2;12,4;4,7;5,7
+101406;"1ª PJ junto a 4ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2019";1;0;1;0;0;0;0;0;0;0;100;NA;NA;NA;NA;NA;NA
+101407;"2ª PJ junto a 4ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2019";2;2;0;2;0;1;1;0;0;100;0;100;0;50;50;0;0
+101404;"PJ junto a 5ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2019";227;225;2;145;80;96;28;15;6;99,1;0,9;64,4;35,6;66,2;19,3;10,3;4,1
+101189;"PJ junto a 1ª Vara Criminal de Duque de Caxias";22;"Duque de Caxias";"2019";278;270;8;160;110;132;11;16;1;97,1;2,9;59,3;40,7;82,5;6,9;10;0,6
+101190;"PJ junto a 2ª Vara Criminal de Duque de Caxias";22;"Duque de Caxias";"2019";254;249;5;177;72;157;8;12;0;98;2;71,1;28,9;88,7;4,5;6,8;0
+101191;"PJ junto a 3ª Vara Criminal de Duque de Caxias";22;"Duque de Caxias";"2019";244;232;12;138;94;124;7;7;0;95,1;4,9;59,5;40,5;89,9;5,1;5,1;0
+101192;"1ª PJ junto a 4ª Vara Criminal de Duque de Caxias";22;"Duque de Caxias";"2019";5;5;0;5;0;4;0;1;0;100;0;100;0;80;0;20;0
+101193;"2ª PJ junto a 4ª Vara Criminal de Duque de Caxias";22;"Duque de Caxias";"2019";8;8;0;8;0;1;0;7;0;100;0;100;0;12,5;0;87,5;0
+200201;"PJ junto a 1ª Vara Criminal de Nova Iguaçu";46;"Nova Iguacu";"2019";354;339;15;164;175;130;10;24;0;95,8;4,2;48,4;51,6;79,3;6,1;14,6;0
+101315;"PJ junto a 2ª Vara Criminal de Nova Iguaçu";46;"Nova Iguacu";"2019";351;343;8;192;151;132;43;17;0;97,7;2,3;56;44;68,8;22,4;8,9;0
+101317;"1ª PJ junto a 4ª Vara Criminal de Nova Iguaçu";46;"Nova Iguacu";"2019";6;6;0;6;0;3;0;3;0;100;0;100;0;50;0;50;0
+101318;"2ª PJ junto a 4ª Vara Criminal de Nova Iguaçu";46;"Nova Iguacu";"2019";5;5;0;5;0;2;0;3;0;100;0;100;0;40;0;60;0
+101322;"PJ junto a 7ª Vara Criminal de Nova Iguaçu";46;"Nova Iguacu";"2019";241;233;8;146;87;100;27;19;0;96,7;3,3;62,7;37,3;68,5;18,5;13;0
+101419;"1ª PJ junto a 1ª Vara Criminal de São João de Meriti";68;"Sao Joao de Meriti";"2019";114;110;4;74;36;57;8;9;0;96,5;3,5;67,3;32,7;77;10,8;12,2;0
+921029;"2ª PJ junto a 1ª Vara Criminal de São João de Meriti";68;"Sao Joao de Meriti";"2019";134;131;3;95;36;73;7;15;0;97,8;2,2;72,5;27,5;76,8;7,4;15,8;0
+101421;"PJ junto a 2ª Vara Criminal de São João de Meriti";68;"Sao Joao de Meriti";"2019";246;241;5;146;95;122;12;12;0;98;2;60,6;39,4;83,6;8,2;8,2;0
+200409;"1ª PJ junto as Varas Criminais de Belford Roxo";7;"Belford Roxo";"2019";135;131;4;55;76;41;6;8;0;97;3;42;58;74,5;10,9;14,5;0
+200499;"2ª PJ junto as Varas Criminais de Belford Roxo";7;"Belford Roxo";"2019";179;173;6;95;78;68;7;20;0;96,6;3,4;54,9;45,1;71,6;7,4;21,1;0
+101273;"PJ junto a 1ª Vara Criminal de Nilópolis";43;"Nilopolis";"2019";149;147;2;114;33;80;25;8;1;98,7;1,3;77,6;22,4;70,2;21,9;7;0,9
+101345;"PJ junto a 1ª Vara Criminal de Petrópolis";51;"Petropolis";"2019";271;254;17;140;114;122;9;7;2;93,7;6,3;55,1;44,9;87,1;6,4;5;1,4
+101346;"PJ junto a 2ª Vara Criminal de Petrópolis";51;"Petropolis";"2019";276;252;24;119;133;95;7;17;0;91,3;8,7;47,2;52,8;79,8;5,9;14,3;0
+400759;"1ª PJ junto a 1ª Vara Criminal de Campos dos Goytacazes";13;"Campos dos Goytacazes";"2019";178;38;140;28;10;13;1;14;0;21,3;78,7;73,7;26,3;46,4;3,6;50;0
+400732;"2ª PJ junto a 1ª Vara Criminal de Campos dos Goytacazes";13;"Campos dos Goytacazes";"2019";159;15;144;12;3;7;0;5;0;9,4;90,6;80;20;58,3;0;41,7;0
+101145;"PJ junto a 2ª Vara Criminal de Campos dos Goytacazes";13;"Campos dos Goytacazes";"2019";284;25;259;4;21;1;0;3;0;8,8;91,2;16;84;25;0;75;0
+14329590;"PJ junto a 3ª Vara Criminal de Campos dos Goytacazes";13;"Campos dos Goytacazes";"2019";281;16;265;7;9;4;0;3;0;5,7;94,3;43,8;56,2;57,1;0;42,9;0
+400565;"PJ junto a 5ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";205;198;7;159;39;122;10;14;13;96,6;3,4;80,3;19,7;76,7;6,3;8,8;8,2
+400573;"PJ junto a 11ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";207;206;1;194;12;118;12;34;30;99,5;0,5;94,2;5,8;60,8;6,2;17,5;15,5
+400588;"PJ junto a 14ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";213;211;2;202;9;137;22;23;20;99,1;0,9;95,7;4,3;67,8;10,9;11,4;9,9
+400592;"PJ junto a 16ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";202;198;4;174;24;123;12;17;22;98;2;87,9;12,1;70,7;6,9;9,8;12,6
+400591;"PJ junto a 17ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";198;190;8;168;22;138;2;12;16;96;4;88,4;11,6;82,1;1,2;7,1;9,5
+400594;"PJ junto a 19ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";213;208;5;172;36;134;9;24;5;97,7;2,3;82,7;17,3;77,9;5,2;14;2,9
+400580;"PJ junto a 20ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";218;204;14;159;45;120;8;12;19;93,6;6,4;77,9;22,1;75,5;5;7,5;11,9
+400590;"PJ junto a 21ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";180;172;8;148;24;85;26;18;19;95,6;4,4;86;14;57,4;17,6;12,2;12,8
+400582;"PJ junto a 23ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";210;204;6;191;13;141;11;13;26;97,1;2,9;93,6;6,4;73,8;5,8;6,8;13,6
+400568;"PJ junto a 26ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";205;197;8;144;53;106;12;19;7;96,1;3,9;73,1;26,9;73,6;8,3;13,2;4,9
+400586;"PJ junto a 27ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";208;205;3;185;20;144;11;12;18;98,6;1,4;90,2;9,8;77,8;5,9;6,5;9,7
+400585;"PJ junto a 28ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";185;182;3;146;36;117;14;13;2;98,4;1,6;80,2;19,8;80,1;9,6;8,9;1,4
+400569;"PJ junto a 29ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";196;191;5;171;20;134;7;8;22;97,4;2,6;89,5;10,5;78,4;4,1;4,7;12,9
+400597;"PJ junto a 31ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";178;172;6;147;25;90;34;17;6;96,6;3,4;85,5;14,5;61,2;23,1;11,6;4,1
+400581;"PJ junto a 32ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";215;207;8;109;98;90;8;11;0;96,3;3,7;52,7;47,3;82,6;7,3;10,1;0
+400577;"PJ junto a 33ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";204;196;8;174;22;126;20;14;14;96,1;3,9;88,8;11,2;72,4;11,5;8;8
+400583;"PJ junto a 34ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";224;218;6;180;38;136;13;17;14;97,3;2,7;82,6;17,4;75,6;7,2;9,4;7,8
+400570;"PJ junto a 35ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";212;206;6;170;36;121;13;20;16;97,2;2,8;82,5;17,5;71,2;7,6;11,8;9,4
+400571;"PJ junto a 36ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";190;186;4;154;32;119;10;3;22;97,9;2,1;82,8;17,2;77,3;6,5;1,9;14,3
+400572;"PJ junto a 37ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";181;174;7;130;44;80;20;22;8;96,1;3,9;74,7;25,3;61,5;15,4;16,9;6,2
+400595;"PJ junto a 38ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";206;201;5;179;22;139;14;11;15;97,6;2,4;89,1;10,9;77,7;7,8;6,1;8,4
+400579;"PJ junto a 39ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";197;196;1;158;38;124;6;18;10;99,5;0,5;80,6;19,4;78,5;3,8;11,4;6,3
+101062;"PJ junto a 40ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";197;195;2;186;9;118;26;24;18;99;1;95,4;4,6;63,4;14;12,9;9,7
+101063;"PJ junto a 41ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";199;187;12;146;41;117;12;16;1;94;6;78,1;21,9;80,1;8,2;11;0,7
+101053;"PJ junto a 42ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";204;196;8;183;13;129;21;14;19;96,1;3,9;93,4;6,6;70,5;11,5;7,7;10,4
+101055;"PJ junto a 43ª Vara Criminal da Capital";15;"Rio de Janeiro";"2018";195;191;4;153;38;113;21;6;13;97,9;2,1;80,1;19,9;73,9;13,7;3,9;8,5
+101043;"1ª PJ junto a 1ª e a 2ª Varas Criminais de Bangu";15;"Rio de Janeiro";"2018";245;236;9;193;43;157;6;23;7;96,3;3,7;81,8;18,2;81,3;3,1;11,9;3,6
+101044;"2ª PJ junto a 1ª e a 2ª Varas Criminais de Bangu";15;"Rio de Janeiro";"2018";258;237;21;193;44;137;41;9;6;91,9;8,1;81,4;18,6;71;21,2;4,7;3,1
+101082;"PJ junto a 1ª Vara Criminal de Jacarepagua";15;"Rio de Janeiro";"2018";233;227;6;189;38;115;37;37;0;97,4;2,6;83,3;16,7;60,8;19,6;19,6;0
+101070;"PJ junto a 2ª Vara Criminal de Jacarepagua";15;"Rio de Janeiro";"2018";216;209;7;166;43;123;23;19;1;96,8;3,2;79,4;20,6;74,1;13,9;11,4;0,6
+101088;"1ª PJ Criminal de Santa Cruz";15;"Rio de Janeiro";"2018";67;62;5;61;1;34;2;24;1;92,5;7,5;98,4;1,6;55,7;3,3;39,3;1,6
+101089;"2ª PJ Criminal de Santa Cruz";15;"Rio de Janeiro";"2018";145;123;22;98;25;50;13;28;7;84,8;15,2;79,7;20,3;51;13,3;28,6;7,1
+907757;"PJ junto a 1ª Vara Criminal de Madureira";15;"Rio de Janeiro";"2018";184;182;2;142;40;91;24;23;4;98,9;1,1;78;22;64,1;16,9;16,2;2,8
+101080;"PJ junto a 2ª Vara Criminal de Madureira";15;"Rio de Janeiro";"2018";200;191;9;143;48;96;14;24;9;95,5;4,5;74,9;25,1;67,1;9,8;16,8;6,3
+101290;"PJ junto a 1ª Vara Criminal de Niterói";44;"Niteroi";"2018";252;247;5;227;20;174;20;19;14;98;2;91,9;8,1;76,7;8,8;8,4;6,2
+101291;"PJ junto a 2ª Vara Criminal de Niterói";44;"Niteroi";"2018";246;237;9;186;51;138;14;29;5;96,3;3,7;78,5;21,5;74,2;7,5;15,6;2,7
+101292;"PJ junto a 3ª Vara Criminal de Niterói";44;"Niteroi";"2018";13;10;3;10;0;9;0;1;0;76,9;23,1;100;0;90;0;10;0
+101294;"PJ junto a 4ª Vara Criminal de Niterói";44;"Niteroi";"2018";243;239;4;207;32;157;17;14;19;98,4;1,6;86,6;13,4;75,8;8,2;6,8;9,2
+101403;"PJ junto a 1ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2018";273;269;4;258;11;183;40;22;13;98,5;1,5;95,9;4,1;70,9;15,5;8,5;5
+101408;"PJ junto a 2ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2018";278;262;16;208;54;125;49;23;11;94,2;5,8;79,4;20,6;60,1;23,6;11,1;5,3
+101405;"PJ junto a 3ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2018";279;263;16;226;37;175;26;14;11;94,3;5,7;85,9;14,1;77,4;11,5;6,2;4,9
+101406;"1ª PJ junto a 4ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2018";3;0;3;0;0;0;0;0;0;0;100;NA;NA;NA;NA;NA;NA
+101407;"2ª PJ junto a 4ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2018";10;9;1;8;1;3;4;1;0;90;10;88,9;11,1;37,5;50;12,5;0
+101404;"PJ junto a 5ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2018";269;258;11;237;21;170;43;8;16;95,9;4,1;91,9;8,1;71,7;18,1;3,4;6,8
+101189;"PJ junto a 1ª Vara Criminal de Duque de Caxias";22;"Duque de Caxias";"2018";327;313;14;237;76;199;11;24;3;95,7;4,3;75,7;24,3;84;4,6;10,1;1,3
+101190;"PJ junto a 2ª Vara Criminal de Duque de Caxias";22;"Duque de Caxias";"2018";314;301;13;266;35;232;10;20;4;95,9;4,1;88,4;11,6;87,2;3,8;7,5;1,5
+101191;"PJ junto a 3ª Vara Criminal de Duque de Caxias";22;"Duque de Caxias";"2018";305;292;13;238;54;209;2;24;3;95,7;4,3;81,5;18,5;87,8;0,8;10,1;1,3
+101192;"1ª PJ junto a 4ª Vara Criminal de Duque de Caxias";22;"Duque de Caxias";"2018";4;4;0;2;2;1;1;0;0;100;0;50;50;50;50;0;0
+101193;"2ª PJ junto a 4ª Vara Criminal de Duque de Caxias";22;"Duque de Caxias";"2018";4;4;0;2;2;1;1;0;0;100;0;50;50;50;50;0;0
+200201;"PJ junto a 1ª Vara Criminal de Nova Iguaçu";46;"Nova Iguacu";"2018";396;379;17;283;96;214;38;29;2;95,7;4,3;74,7;25,3;75,6;13,4;10,2;0,7
+101315;"PJ junto a 2ª Vara Criminal de Nova Iguaçu";46;"Nova Iguacu";"2018";386;373;13;282;91;202;61;19;0;96,6;3,4;75,6;24,4;71,6;21,6;6,7;0
+101317;"1ª PJ junto a 4ª Vara Criminal de Nova Iguaçu";46;"Nova Iguacu";"2018";12;11;1;11;0;7;1;3;0;91,7;8,3;100;0;63,6;9,1;27,3;0
+101318;"2ª PJ junto a 4ª Vara Criminal de Nova Iguaçu";46;"Nova Iguacu";"2018";8;8;0;5;3;4;0;1;0;100;0;62,5;37,5;80;0;20;0
+101322;"PJ junto a 7ª Vara Criminal de Nova Iguaçu";46;"Nova Iguacu";"2018";297;280;17;211;69;150;31;28;2;94,3;5,7;75,4;24,6;71,1;14,7;13,3;0,9
+101419;"1ª PJ junto a 1ª Vara Criminal de São João de Meriti";68;"Sao Joao de Meriti";"2018";107;104;3;81;23;67;9;5;0;97,2;2,8;77,9;22,1;82,7;11,1;6,2;0
+921029;"2ª PJ junto a 1ª Vara Criminal de São João de Meriti";68;"Sao Joao de Meriti";"2018";143;140;3;113;27;93;13;7;0;97,9;2,1;80,7;19,3;82,3;11,5;6,2;0
+101421;"PJ junto a 2ª Vara Criminal de São João de Meriti";68;"Sao Joao de Meriti";"2018";300;286;14;237;49;205;14;14;4;95,3;4,7;82,9;17,1;86,5;5,9;5,9;1,7
+200409;"1ª PJ junto as Varas Criminais de Belford Roxo";7;"Belford Roxo";"2018";193;182;11;116;66;99;4;13;0;94,3;5,7;63,7;36,3;85,3;3,4;11,2;0
+200499;"2ª PJ junto as Varas Criminais de Belford Roxo";7;"Belford Roxo";"2018";203;195;8;159;36;126;8;23;2;96,1;3,9;81,5;18,5;79,2;5;14,5;1,3
+101273;"PJ junto a 1ª Vara Criminal de Nilópolis";43;"Nilopolis";"2018";129;129;0;117;12;78;19;16;4;100;0;90,7;9,3;66,7;16,2;13,7;3,4
+101345;"PJ junto a 1ª Vara Criminal de Petrópolis";51;"Petropolis";"2018";268;253;15;197;56;167;11;16;3;94,4;5,6;77,9;22,1;84,8;5,6;8,1;1,5
+101346;"PJ junto a 2ª Vara Criminal de Petrópolis";51;"Petropolis";"2018";242;219;23;167;52;120;13;33;1;90,5;9,5;76,3;23,7;71,9;7,8;19,8;0,6
+400759;"1ª PJ junto a 1ª Vara Criminal de Campos dos Goytacazes";13;"Campos dos Goytacazes";"2018";161;18;143;14;4;12;0;2;0;11,2;88,8;77,8;22,2;85,7;0;14,3;0
+400732;"2ª PJ junto a 1ª Vara Criminal de Campos dos Goytacazes";13;"Campos dos Goytacazes";"2018";157;11;146;10;1;5;3;2;0;7;93;90,9;9,1;50;30;20;0
+101145;"PJ junto a 2ª Vara Criminal de Campos dos Goytacazes";13;"Campos dos Goytacazes";"2018";327;17;310;7;10;3;2;2;0;5,2;94,8;41,2;58,8;42,9;28,6;28,6;0
+14329590;"PJ junto a 3ª Vara Criminal de Campos dos Goytacazes";13;"Campos dos Goytacazes";"2018";310;7;303;4;3;1;2;1;0;2,3;97,7;57,1;42,9;25;50;25;0
+400565;"PJ junto a 5ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";225;217;8;197;20;139;11;32;15;96,4;3,6;90,8;9,2;70,6;5,6;16,2;7,6
+400573;"PJ junto a 11ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";225;221;4;213;8;134;22;34;23;98,2;1,8;96,4;3,6;62,9;10,3;16;10,8
+400588;"PJ junto a 14ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";208;206;2;200;6;120;24;28;28;99;1;97,1;2,9;60;12;14;14
+400592;"PJ junto a 16ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";235;225;10;219;6;158;21;26;14;95,7;4,3;97,3;2,7;72,1;9,6;11,9;6,4
+400591;"PJ junto a 17ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";214;208;6;195;13;137;10;29;19;97,2;2,8;93,8;6,2;70,3;5,1;14,9;9,7
+400594;"PJ junto a 19ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";242;238;4;215;23;169;8;30;8;98,3;1,7;90,3;9,7;78,6;3,7;14;3,7
+400580;"PJ junto a 20ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";228;218;10;181;37;137;8;15;21;95,6;4,4;83;17;75,7;4,4;8,3;11,6
+400590;"PJ junto a 21ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";221;218;3;204;14;112;31;36;25;98,6;1,4;93,6;6,4;54,9;15,2;17,6;12,3
+400582;"PJ junto a 23ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";231;228;3;225;3;157;13;18;37;98,7;1,3;98,7;1,3;69,8;5,8;8;16,4
+400568;"PJ junto a 26ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";228;223;5;175;48;110;24;28;13;97,8;2,2;78,5;21,5;62,9;13,7;16;7,4
+400586;"PJ junto a 27ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";213;208;5;199;9;162;9;8;20;97,7;2,3;95,7;4,3;81,4;4,5;4;10,1
+400585;"PJ junto a 28ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";214;205;9;174;31;129;16;24;5;95,8;4,2;84,9;15,1;74,1;9,2;13,8;2,9
+400569;"PJ junto a 29ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";220;210;10;202;8;148;9;25;20;95,5;4,5;96,2;3,8;73,3;4,5;12,4;9,9
+400597;"PJ junto a 31ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";224;219;5;203;16;109;53;22;19;97,8;2,2;92,7;7,3;53,7;26,1;10,8;9,4
+400581;"PJ junto a 32ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";203;192;11;149;43;105;15;20;9;94,6;5,4;77,6;22,4;70,5;10,1;13,4;6
+400577;"PJ junto a 33ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";228;222;6;215;7;156;29;14;16;97,4;2,6;96,8;3,2;72,6;13,5;6,5;7,4
+400583;"PJ junto a 34ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";232;220;12;196;24;157;8;13;18;94,8;5,2;89,1;10,9;80,1;4,1;6,6;9,2
+400570;"PJ junto a 35ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";227;220;7;190;30;126;24;21;19;96,9;3,1;86,4;13,6;66,3;12,6;11,1;10
+400571;"PJ junto a 36ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";220;214;6;197;17;149;13;20;15;97,3;2,7;92,1;7,9;75,6;6,6;10,2;7,6
+400572;"PJ junto a 37ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";212;210;2;177;33;77;63;31;6;99,1;0,9;84,3;15,7;43,5;35,6;17,5;3,4
+400595;"PJ junto a 38ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";213;208;5;192;16;133;23;19;17;97,7;2,3;92,3;7,7;69,3;12;9,9;8,9
+400579;"PJ junto a 39ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";238;236;2;210;26;135;23;25;27;99,2;0,8;89;11;64,3;11;11,9;12,9
+101062;"PJ junto a 40ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";217;214;3;211;3;136;33;21;21;98,6;1,4;98,6;1,4;64,5;15,6;10;10
+101063;"PJ junto a 41ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";228;218;10;161;57;134;8;18;1;95,6;4,4;73,9;26,1;83,2;5;11,2;0,6
+101053;"PJ junto a 42ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";230;223;7;217;6;145;37;22;13;97;3;97,3;2,7;66,8;17,1;10,1;6
+101055;"PJ junto a 43ª Vara Criminal da Capital";15;"Rio de Janeiro";"2017";217;214;3;200;14;124;35;16;25;98,6;1,4;93,5;6,5;62;17,5;8;12,5
+101043;"1ª PJ junto a 1ª e a 2ª Varas Criminais de Bangu";15;"Rio de Janeiro";"2017";323;309;14;275;34;199;28;35;13;95,7;4,3;89;11;72,4;10,2;12,7;4,7
+101044;"2ª PJ junto a 1ª e a 2ª Varas Criminais de Bangu";15;"Rio de Janeiro";"2017";281;275;6;241;34;157;31;41;12;97,9;2,1;87,6;12,4;65,1;12,9;17;5
+101082;"PJ junto a 1ª Vara Criminal de Jacarepagua";15;"Rio de Janeiro";"2017";211;205;6;185;20;96;31;58;0;97,2;2,8;90,2;9,8;51,9;16,8;31,4;0
+101070;"PJ junto a 2ª Vara Criminal de Jacarepagua";15;"Rio de Janeiro";"2017";213;208;5;193;15;128;24;30;11;97,7;2,3;92,8;7,2;66,3;12,4;15,5;5,7
+101088;"1ª PJ Criminal de Santa Cruz";15;"Rio de Janeiro";"2017";65;44;21;44;0;27;5;6;6;67,7;32,3;100;0;61,4;11,4;13,6;13,6
+101089;"2ª PJ Criminal de Santa Cruz";15;"Rio de Janeiro";"2017";164;147;17;139;8;57;10;59;13;89,6;10,4;94,6;5,4;41;7,2;42,4;9,4
+907757;"PJ junto a 1ª Vara Criminal de Madureira";15;"Rio de Janeiro";"2017";270;268;2;241;27;157;40;29;15;99,3;0,7;89,9;10,1;65,1;16,6;12;6,2
+101080;"PJ junto a 2ª Vara Criminal de Madureira";15;"Rio de Janeiro";"2017";252;250;2;223;27;164;19;18;22;99,2;0,8;89,2;10,8;73,5;8,5;8,1;9,9
+101290;"PJ junto a 1ª Vara Criminal de Niterói";44;"Niteroi";"2017";250;248;2;236;12;190;15;23;8;99,2;0,8;95,2;4,8;80,5;6,4;9,7;3,4
+101291;"PJ junto a 2ª Vara Criminal de Niterói";44;"Niteroi";"2017";246;238;8;223;15;181;17;21;4;96,7;3,3;93,7;6,3;81,2;7,6;9,4;1,8
+101292;"PJ junto a 3ª Vara Criminal de Niterói";44;"Niteroi";"2017";19;14;5;14;0;11;2;1;0;73,7;26,3;100;0;78,6;14,3;7,1;0
+101294;"PJ junto a 4ª Vara Criminal de Niterói";44;"Niteroi";"2017";231;228;3;213;15;174;8;21;10;98,7;1,3;93,4;6,6;81,7;3,8;9,9;4,7
+101403;"PJ junto a 1ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2017";294;289;5;285;4;196;49;31;9;98,3;1,7;98,6;1,4;68,8;17,2;10,9;3,2
+101408;"PJ junto a 2ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2017";287;273;14;246;27;137;62;41;6;95,1;4,9;90,1;9,9;55,7;25,2;16,7;2,4
+101405;"PJ junto a 3ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2017";286;276;10;257;19;192;42;16;7;96,5;3,5;93,1;6,9;74,7;16,3;6,2;2,7
+101406;"1ª PJ junto a 4ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2017";2;1;1;1;0;0;1;0;0;50;50;100;0;0;100;0;0
+101407;"2ª PJ junto a 4ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2017";16;15;1;15;0;8;3;3;1;93,8;6,2;100;0;53,3;20;20;6,7
+101404;"PJ junto a 5ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2017";283;274;9;269;5;205;32;25;7;96,8;3,2;98,2;1,8;76,2;11,9;9,3;2,6
+101189;"PJ junto a 1ª Vara Criminal de Duque de Caxias";22;"Duque de Caxias";"2017";374;360;14;311;49;232;30;45;4;96,3;3,7;86,4;13,6;74,6;9,6;14,5;1,3
+101190;"PJ junto a 2ª Vara Criminal de Duque de Caxias";22;"Duque de Caxias";"2017";318;315;3;292;23;257;15;15;5;99,1;0,9;92,7;7,3;88;5,1;5,1;1,7
+101191;"PJ junto a 3ª Vara Criminal de Duque de Caxias";22;"Duque de Caxias";"2017";317;308;9;272;36;219;20;21;12;97,2;2,8;88,3;11,7;80,5;7,4;7,7;4,4
+101192;"1ª PJ junto a 4ª Vara Criminal de Duque de Caxias";22;"Duque de Caxias";"2017";10;7;3;7;0;7;0;0;0;70;30;100;0;100;0;0;0
+101193;"2ª PJ junto a 4ª Vara Criminal de Duque de Caxias";22;"Duque de Caxias";"2017";11;6;5;5;1;3;0;2;0;54,5;45,5;83,3;16,7;60;0;40;0
+200201;"PJ junto a 1ª Vara Criminal de Nova Iguaçu";46;"Nova Iguacu";"2017";412;396;16;322;74;239;51;28;4;96,1;3,9;81,3;18,7;74,2;15,8;8,7;1,2
+101315;"PJ junto a 2ª Vara Criminal de Nova Iguaçu";46;"Nova Iguacu";"2017";382;370;12;325;45;240;58;26;1;96,9;3,1;87,8;12,2;73,8;17,8;8;0,3
+101317;"1ª PJ junto a 4ª Vara Criminal de Nova Iguaçu";46;"Nova Iguacu";"2017";10;10;0;9;1;8;0;1;0;100;0;90;10;88,9;0;11,1;0
+101318;"2ª PJ junto a 4ª Vara Criminal de Nova Iguaçu";46;"Nova Iguacu";"2017";9;8;1;7;1;5;0;2;0;88,9;11,1;87,5;12,5;71,4;0;28,6;0
+101322;"PJ junto a 7ª Vara Criminal de Nova Iguaçu";46;"Nova Iguacu";"2017";304;285;19;231;54;156;44;29;2;93,8;6,2;81,1;18,9;67,5;19;12,6;0,9
+101419;"1ª PJ junto a 1ª Vara Criminal de São João de Meriti";68;"Sao Joao de Meriti";"2017";134;128;6;102;26;85;7;10;0;95,5;4,5;79,7;20,3;83,3;6,9;9,8;0
+921029;"2ª PJ junto a 1ª Vara Criminal de São João de Meriti";68;"Sao Joao de Meriti";"2017";153;146;7;125;21;113;4;8;0;95,4;4,6;85,6;14,4;90,4;3,2;6,4;0
+101421;"PJ junto a 2ª Vara Criminal de São João de Meriti";68;"Sao Joao de Meriti";"2017";286;281;5;250;31;222;13;14;1;98,3;1,7;89;11;88,8;5,2;5,6;0,4
+200409;"1ª PJ junto as Varas Criminais de Belford Roxo";7;"Belford Roxo";"2017";192;182;10;136;46;121;9;6;0;94,8;5,2;74,7;25,3;89;6,6;4,4;0
+200499;"2ª PJ junto as Varas Criminais de Belford Roxo";7;"Belford Roxo";"2017";181;176;5;138;38;89;22;27;0;97,2;2,8;78,4;21,6;64,5;15,9;19,6;0
+101273;"PJ junto a 1ª Vara Criminal de Nilópolis";43;"Nilopolis";"2017";173;170;3;159;11;107;39;11;2;98,3;1,7;93,5;6,5;67,3;24,5;6,9;1,3
+101345;"PJ junto a 1ª Vara Criminal de Petrópolis";51;"Petropolis";"2017";285;274;11;232;42;192;10;30;0;96,1;3,9;84,7;15,3;82,8;4,3;12,9;0
+101346;"PJ junto a 2ª Vara Criminal de Petrópolis";51;"Petropolis";"2017";272;256;16;209;47;134;18;55;2;94,1;5,9;81,6;18,4;64,1;8,6;26,3;1
+400759;"1ª PJ junto a 1ª Vara Criminal de Campos dos Goytacazes";13;"Campos dos Goytacazes";"2017";179;16;163;12;4;8;0;4;0;8,9;91,1;75;25;66,7;0;33,3;0
+400732;"2ª PJ junto a 1ª Vara Criminal de Campos dos Goytacazes";13;"Campos dos Goytacazes";"2017";148;18;130;15;3;7;4;4;0;12,2;87,8;83,3;16,7;46,7;26,7;26,7;0
+101145;"PJ junto a 2ª Vara Criminal de Campos dos Goytacazes";13;"Campos dos Goytacazes";"2017";323;17;306;10;7;4;0;6;0;5,3;94,7;58,8;41,2;40;0;60;0
+14329590;"PJ junto a 3ª Vara Criminal de Campos dos Goytacazes";13;"Campos dos Goytacazes";"2017";313;10;303;6;4;3;2;1;0;3,2;96,8;60;40;50;33,3;16,7;0
+400565;"PJ junto a 5ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";230;227;3;223;4;152;17;38;16;98,7;1,3;98,2;1,8;68,2;7,6;17;7,2
+400573;"PJ junto a 11ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";239;234;5;230;4;152;39;25;14;97,9;2,1;98,3;1,7;66,1;17;10,9;6,1
+400588;"PJ junto a 14ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";233;227;6;225;2;138;28;35;24;97,4;2,6;99,1;0,9;61,3;12,4;15,6;10,7
+400592;"PJ junto a 16ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";226;222;4;216;6;168;13;21;14;98,2;1,8;97,3;2,7;77,8;6;9,7;6,5
+400591;"PJ junto a 17ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";216;211;5;194;17;146;10;18;20;97,7;2,3;91,9;8,1;75,3;5,2;9,3;10,3
+400594;"PJ junto a 19ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";203;202;1;192;10;158;8;25;1;99,5;0,5;95;5;82,3;4,2;13;0,5
+400580;"PJ junto a 20ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";235;229;6;209;20;149;12;22;26;97,4;2,6;91,3;8,7;71,3;5,7;10,5;12,4
+400590;"PJ junto a 21ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";230;224;6;216;8;125;48;30;13;97,4;2,6;96,4;3,6;57,9;22,2;13,9;6
+400582;"PJ junto a 23ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";223;213;10;212;1;155;6;29;22;95,5;4,5;99,5;0,5;73,1;2,8;13,7;10,4
+400568;"PJ junto a 26ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";235;221;14;193;28;129;19;36;9;94;6;87,3;12,7;66,8;9,8;18,7;4,7
+400586;"PJ junto a 27ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";245;243;2;240;3;189;14;24;13;99,2;0,8;98,8;1,2;78,8;5,8;10;5,4
+400585;"PJ junto a 28ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";223;222;1;209;13;147;19;32;11;99,6;0,4;94,1;5,9;70,3;9,1;15,3;5,3
+400569;"PJ junto a 29ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";218;207;11;204;3;159;6;27;12;95;5;98,6;1,4;77,9;2,9;13,2;5,9
+400597;"PJ junto a 31ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";228;219;9;216;3;110;67;22;17;96,1;3,9;98,6;1,4;50,9;31;10,2;7,9
+400581;"PJ junto a 32ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";227;223;4;186;37;96;36;44;10;98,2;1,8;83,4;16,6;51,6;19,4;23,7;5,4
+400577;"PJ junto a 33ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";235;230;5;226;4;146;25;34;21;97,9;2,1;98,3;1,7;64,6;11,1;15;9,3
+400583;"PJ junto a 34ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";218;212;6;200;12;158;14;12;16;97,2;2,8;94,3;5,7;79;7;6;8
+400570;"PJ junto a 35ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";237;233;4;219;14;127;40;34;18;98,3;1,7;94;6;58;18,3;15,5;8,2
+400571;"PJ junto a 36ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";220;208;12;205;3;146;17;27;15;94,5;5,5;98,6;1,4;71,2;8,3;13,2;7,3
+400572;"PJ junto a 37ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";245;236;9;221;15;77;79;54;11;96,3;3,7;93,6;6,4;34,8;35,7;24,4;5
+400595;"PJ junto a 38ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";227;226;1;219;7;146;20;26;27;99,6;0,4;96,9;3,1;66,7;9,1;11,9;12,3
+400579;"PJ junto a 39ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";224;220;4;208;12;140;20;21;27;98,2;1,8;94,5;5,5;67,3;9,6;10,1;13
+101062;"PJ junto a 40ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";247;241;6;238;3;161;20;35;22;97,6;2,4;98,8;1,2;67,6;8,4;14,7;9,2
+101063;"PJ junto a 41ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";230;227;3;197;30;146;14;32;5;98,7;1,3;86,8;13,2;74,1;7,1;16,2;2,5
+101053;"PJ junto a 42ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";232;228;4;224;4;154;30;29;11;98,3;1,7;98,2;1,8;68,8;13,4;12,9;4,9
+101055;"PJ junto a 43ª Vara Criminal da Capital";15;"Rio de Janeiro";"2016";226;222;4;205;17;88;75;24;18;98,2;1,8;92,3;7,7;42,9;36,6;11,7;8,8
+101043;"1ª PJ junto a 1ª e a 2ª Varas Criminais de Bangu";15;"Rio de Janeiro";"2016";378;374;4;340;34;235;49;44;12;98,9;1,1;90,9;9,1;69,1;14,4;12,9;3,5
+101044;"2ª PJ junto a 1ª e a 2ª Varas Criminais de Bangu";15;"Rio de Janeiro";"2016";327;320;7;300;20;211;44;35;10;97,9;2,1;93,8;6,2;70,3;14,7;11,7;3,3
+101082;"PJ junto a 1ª Vara Criminal de Jacarepagua";15;"Rio de Janeiro";"2016";281;276;5;263;13;156;48;58;1;98,2;1,8;95,3;4,7;59,3;18,3;22,1;0,4
+101070;"PJ junto a 2ª Vara Criminal de Jacarepagua";15;"Rio de Janeiro";"2016";255;252;3;234;18;144;21;56;13;98,8;1,2;92,9;7,1;61,5;9;23,9;5,6
+101088;"1ª PJ Criminal de Santa Cruz";15;"Rio de Janeiro";"2016";99;67;32;66;1;33;21;6;6;67,7;32,3;98,5;1,5;50;31,8;9,1;9,1
+101089;"2ª PJ Criminal de Santa Cruz";15;"Rio de Janeiro";"2016";219;195;24;191;4;63;18;77;33;89;11;97,9;2,1;33;9,4;40,3;17,3
+907757;"PJ junto a 1ª Vara Criminal de Madureira";15;"Rio de Janeiro";"2016";217;208;9;201;7;138;25;23;15;95,9;4,1;96,6;3,4;68,7;12,4;11,4;7,5
+101080;"PJ junto a 2ª Vara Criminal de Madureira";15;"Rio de Janeiro";"2016";219;211;8;204;7;161;12;27;4;96,3;3,7;96,7;3,3;78,9;5,9;13,2;2
+101290;"PJ junto a 1ª Vara Criminal de Niterói";44;"Niteroi";"2016";271;264;7;257;7;195;20;31;11;97,4;2,6;97,3;2,7;75,9;7,8;12,1;4,3
+101291;"PJ junto a 2ª Vara Criminal de Niterói";44;"Niteroi";"2016";292;284;8;273;11;202;19;40;12;97,3;2,7;96,1;3,9;74;7;14,7;4,4
+101292;"PJ junto a 3ª Vara Criminal de Niterói";44;"Niteroi";"2016";24;19;5;19;0;17;1;0;1;79,2;20,8;100;0;89,5;5,3;0;5,3
+101294;"PJ junto a 4ª Vara Criminal de Niterói";44;"Niteroi";"2016";281;273;8;256;17;207;10;32;7;97,2;2,8;93,8;6,2;80,9;3,9;12,5;2,7
+101403;"PJ junto a 1ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2016";311;304;7;301;3;235;29;28;9;97,7;2,3;99;1;78,1;9,6;9,3;3
+101408;"PJ junto a 2ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2016";230;222;8;210;12;112;59;29;10;96,5;3,5;94,6;5,4;53,3;28,1;13,8;4,8
+101405;"PJ junto a 3ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2016";239;229;10;213;16;178;22;6;7;95,8;4,2;93;7;83,6;10,3;2,8;3,3
+101406;"1ª PJ junto a 4ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2016";12;7;5;7;0;3;3;0;1;58,3;41,7;100;0;42,9;42,9;0;14,3
+101407;"2ª PJ junto a 4ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2016";12;9;3;8;1;6;2;0;0;75;25;88,9;11,1;75;25;0;0
+101404;"PJ junto a 5ª Vara Criminal de São Gonçalo";66;"Sao Goncalo";"2016";451;445;6;440;5;320;65;47;8;98,7;1,3;98,9;1,1;72,7;14,8;10,7;1,8
+101189;"PJ junto a 1ª Vara Criminal de Duque de Caxias";22;"Duque de Caxias";"2016";326;304;22;290;14;215;27;40;8;93,3;6,7;95,4;4,6;74,1;9,3;13,8;2,8
+101190;"PJ junto a 2ª Vara Criminal de Duque de Caxias";22;"Duque de Caxias";"2016";344;337;7;328;9;273;15;34;6;98;2;97,3;2,7;83,2;4,6;10,4;1,8
+101191;"PJ junto a 3ª Vara Criminal de Duque de Caxias";22;"Duque de Caxias";"2016";330;319;11;287;32;174;44;64;5;96,7;3,3;90;10;60,6;15,3;22,3;1,7
+101192;"1ª PJ junto a 4ª Vara Criminal de Duque de Caxias";22;"Duque de Caxias";"2016";9;5;4;4;1;2;0;2;0;55,6;44,4;80;20;50;0;50;0
+101193;"2ª PJ junto a 4ª Vara Criminal de Duque de Caxias";22;"Duque de Caxias";"2016";9;2;7;2;0;2;0;0;0;22,2;77,8;100;0;100;0;0;0
+200201;"PJ junto a 1ª Vara Criminal de Nova Iguaçu";46;"Nova Iguacu";"2016";396;374;22;334;40;271;22;39;2;94,4;5,6;89,3;10,7;81,1;6,6;11,7;0,6
+101315;"PJ junto a 2ª Vara Criminal de Nova Iguaçu";46;"Nova Iguacu";"2016";416;398;18;378;20;286;41;49;2;95,7;4,3;95;5;75,7;10,8;13;0,5
+101317;"1ª PJ junto a 4ª Vara Criminal de Nova Iguaçu";46;"Nova Iguacu";"2016";8;8;0;7;1;5;1;1;0;100;0;87,5;12,5;71,4;14,3;14,3;0
+101318;"2ª PJ junto a 4ª Vara Criminal de Nova Iguaçu";46;"Nova Iguacu";"2016";7;7;0;6;1;2;4;0;0;100;0;85,7;14,3;33,3;66,7;0;0
+101322;"PJ junto a 7ª Vara Criminal de Nova Iguaçu";46;"Nova Iguacu";"2016";256;249;7;205;44;140;35;28;2;97,3;2,7;82,3;17,7;68,3;17,1;13,7;1
+101419;"1ª PJ junto a 1ª Vara Criminal de São João de Meriti";68;"Sao Joao de Meriti";"2016";151;148;3;133;15;118;3;12;0;98;2;89,9;10,1;88,7;2,3;9;0
+921029;"2ª PJ junto a 1ª Vara Criminal de São João de Meriti";68;"Sao Joao de Meriti";"2016";143;142;1;130;12;117;5;7;1;99,3;0,7;91,5;8,5;90;3,8;5,4;0,8
+101421;"PJ junto a 2ª Vara Criminal de São João de Meriti";68;"Sao Joao de Meriti";"2016";317;312;5;300;12;257;11;27;5;98,4;1,6;96,2;3,8;85,7;3,7;9;1,7
+200409;"1ª PJ junto as Varas Criminais de Belford Roxo";7;"Belford Roxo";"2016";216;209;7;180;29;161;11;8;0;96,8;3,2;86,1;13,9;89,4;6,1;4,4;0
+200499;"2ª PJ junto as Varas Criminais de Belford Roxo";7;"Belford Roxo";"2016";178;170;8;157;13;87;42;26;2;95,5;4,5;92,4;7,6;55,4;26,8;16,6;1,3
+101273;"PJ junto a 1ª Vara Criminal de Nilópolis";43;"Nilopolis";"2016";163;159;4;151;8;103;26;16;6;97,5;2,5;95;5;68,2;17,2;10,6;4
+101345;"PJ junto a 1ª Vara Criminal de Petrópolis";51;"Petropolis";"2016";238;233;5;196;37;150;11;34;1;97,9;2,1;84,1;15,9;76,5;5,6;17,3;0,5
+101346;"PJ junto a 2ª Vara Criminal de Petrópolis";51;"Petropolis";"2016";197;184;13;169;15;100;21;46;2;93,4;6,6;91,8;8,2;59,2;12,4;27,2;1,2
+400759;"1ª PJ junto a 1ª Vara Criminal de Campos dos Goytacazes";13;"Campos dos Goytacazes";"2016";128;17;111;15;2;7;1;7;0;13,3;86,7;88,2;11,8;46,7;6,7;46,7;0
+400732;"2ª PJ junto a 1ª Vara Criminal de Campos dos Goytacazes";13;"Campos dos Goytacazes";"2016";99;5;94;5;0;4;1;0;0;5,1;94,9;100;0;80;20;0;0
+101145;"PJ junto a 2ª Vara Criminal de Campos dos Goytacazes";13;"Campos dos Goytacazes";"2016";433;25;408;21;4;10;1;10;0;5,8;94,2;84;16;47,6;4,8;47,6;0
+14329590;"PJ junto a 3ª Vara Criminal de Campos dos Goytacazes";13;"Campos dos Goytacazes";"2016";406;19;387;16;3;9;2;3;2;4,7;95,3;84,2;15,8;56,2;12,5;18,8;12,5
